@@ -15,4 +15,5 @@ INSTRUCTIONS:
 - CREATE TWO VARIABLES (A = 1 / B = "1")
 - PRINT THE TYPE OF EACH VARIABLE ON THE SCREEN;
 - USE THE "fmt" PACKAGE;
+- https://pkg.go.dev/fmt
 ##
