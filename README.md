@@ -1,9 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0083FF&height=180&section=header" />
-## UNDER CONSTRUCTION
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0083FF&height=180&section=header" /> <br>
+### *UNDER CONSTRUCTION
 
- Desafios em Golang <br>
+ # Desafios em Golang <br>
  Desafios de níveis fáceis a complexos em Golang puro
- ##
 
 - COMO FUNCIONA:
   Cada exercício tem seu README instruindo como cada dev deverá fazer e qual será o desafio.
@@ -15,9 +14,8 @@
 
 
 
-Golang Challenges <br>
+# Golang Challenges <br>
 Challenges from easy to complex levels in pure Golang
-##
 
 HOW IT WORKS:
 
